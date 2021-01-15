@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		A961553225B1B76A00399C08 /* FrameworkTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A961553125B1B76A00399C08 /* FrameworkTitleView.swift */; };
-		A961553525B1B83C00399C08 /* DismissButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A961553425B1B83C00399C08 /* DismissButtonX.swift */; };
 		A96A7AA025B0BE7D00970B17 /* SwiftUI_Apple_FrameworksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96A7A9F25B0BE7D00970B17 /* SwiftUI_Apple_FrameworksApp.swift */; };
 		A96A7AA225B0BE7D00970B17 /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96A7AA125B0BE7D00970B17 /* FrameworkGridView.swift */; };
 		A96A7AA425B0BE7E00970B17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A96A7AA325B0BE7E00970B17 /* Assets.xcassets */; };
@@ -22,7 +21,6 @@
 
 /* Begin PBXFileReference section */
 		A961553125B1B76A00399C08 /* FrameworkTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkTitleView.swift; sourceTree = "<group>"; };
-		A961553425B1B83C00399C08 /* DismissButtonX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DismissButtonX.swift; sourceTree = "<group>"; };
 		A96A7A9C25B0BE7D00970B17 /* SwiftUI-Apple-Frameworks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Apple-Frameworks.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A96A7A9F25B0BE7D00970B17 /* SwiftUI_Apple_FrameworksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Apple_FrameworksApp.swift; sourceTree = "<group>"; };
 		A96A7AA125B0BE7D00970B17 /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
@@ -86,7 +84,6 @@
 			isa = PBXGroup;
 			children = (
 				A96A7AB725B0CFAB00970B17 /* AFButton.swift */,
-				A961553425B1B83C00399C08 /* DismissButtonX.swift */,
 			);
 			path = Buttons;
 			sourceTree = "<group>";
@@ -218,7 +215,6 @@
 				A96A7AB525B0CCB800970B17 /* FrameworkDetailView.swift in Sources */,
 				A96A7AA225B0BE7D00970B17 /* FrameworkGridView.swift in Sources */,
 				A96A7AB025B0BEF300970B17 /* Framework.swift in Sources */,
-				A961553525B1B83C00399C08 /* DismissButtonX.swift in Sources */,
 				A96A7AB825B0CFAB00970B17 /* AFButton.swift in Sources */,
 				A96A7AA025B0BE7D00970B17 /* SwiftUI_Apple_FrameworksApp.swift in Sources */,
 				A98118D325B1787900AB24A0 /* FrameworkGridViewModel.swift in Sources */,
